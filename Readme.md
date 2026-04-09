@@ -96,6 +96,6 @@ Each project is self-contained with its own README file containing detailed setu
 
 ## Author
 
-Completed by: J N Ravinandan
-SRM University (Vadapalani)
+#### Completed by: J N Ravinandan
+#### SRM University (Vadapalani)
 ---
