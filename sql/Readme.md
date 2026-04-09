@@ -99,45 +99,13 @@ SELECT * FROM revenue_by_category;
 SELECT * FROM stock_risk_classification;
 ```
 
-## Sample Output
-
-### Expiring Products
-```
-product_id | product_name | expiry_date | stock_quantity
-9          | Milk         | 2026-04-15  | 45
-```
-
-### Revenue by Category
-```
-category_name | total_revenue
-Electronics   | 15000.00
-Groceries     | 8500.00
-```
-
 ## Files
 
 - **retail-insights.sql** - Complete database setup and analytical queries
 - **Readme.md** - Documentation
 - **outputs/** - Sample output results from query execution
 
-## Key SQL Concepts Demonstrated
-
-1. **Joins** - JOIN operations to combine data from multiple tables
-2. **Aggregate Functions** - SUM, COUNT, MAX, MIN for data analysis
-3. **Filtering** - WHERE clauses with date comparisons
-4. **Grouping** - GROUP BY for category-level aggregation
-5. **Case Statements** - CASE WHEN for conditional logic (risk classification)
-6. **Date Functions** - CURRENT_DATE, INTERVAL for date calculations
-
-## Learning Outcomes
-
-- Database design and normalization
-- Writing complex multi-table queries
-- Business logic implementation in SQL
-- Data analysis and reporting
-- Performance optimization for queries
-
 ---
 
-Completed by: J N Ravinandan
-SRM University (Vadapalani)
+### Completed by: J N Ravinandan
+### SRM University (Vadapalani)
