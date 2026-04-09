@@ -71,3 +71,6 @@ WHEN stock_count < 20 THEN 'MEDIUM'
 ELSE 'LOW'
 END AS stock_risk
 FROM products;
+
+-- Done by: J N Ravinandan
+-- SRM University(Vadapalani)
