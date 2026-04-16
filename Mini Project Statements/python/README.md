@@ -41,6 +41,7 @@ resume_analyzer/
 │
 ├── resumes/             # Sample resumes
 ├── job_desc/            # Job description files
+├── outputs/             # Added output screenshots
 ```
 
 ---
@@ -108,7 +109,14 @@ python main.py
 
 ---
 
+## Output Screenshots
+
+### Resume Analyzer Output
+![Resume Analyzer Output](../../Mini%20Project%20use%20cases/python/output/opsbot_ouput.png)
+
+---
+
 ## Author
 
-**J. N. Ravinandan**
+**J. N. Ravinandan**</br>
 **SRM University(Vadapalani)**
