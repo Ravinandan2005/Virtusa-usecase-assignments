@@ -37,6 +37,7 @@ resume_analyzer/
 ├── matcher.py           # Skill extraction and matching logic
 ├── skills.py            # Predefined skill set
 ├── suggestions.py       # Rule-based suggestion engine
+├── requirements.txt     # Requirements.txt
 │
 ├── resumes/             # Sample resumes
 ├── job_desc/            # Job description files
@@ -90,7 +91,7 @@ cd resume_analyzer
 ### 2. Install dependencies
 
 ```
-pip install pdfplumber spacy
+pip install - r requirements.txt
 python -m spacy download en_core_web_sm
 ```
 
@@ -104,23 +105,6 @@ python -m spacy download en_core_web_sm
 ```
 python main.py
 ```
-
----
-
-## Limitations
-
-* Skill extraction is based on a predefined list
-* Does not handle scanned/image-based PDFs
-* Suggestions are rule-based (not AI-generated)
-
----
-
-## Future Improvements
-
-* Integration with advanced NLP models for better skill detection
-* Support for more file formats (DOCX, HTML)
-* Weighted scoring system for different skill importance
-* Web-based interface for user interaction
 
 ---
 
