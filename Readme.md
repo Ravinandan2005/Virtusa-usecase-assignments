@@ -203,6 +203,6 @@ Banking system demonstrating account operations, transaction processing, and bal
 
 ### Author
 
-J N Ravinandan
-SRM University(Vadapalani)
-ravinandanjn2005@gmail.com
+J N Ravinandan</br>
+SRM University(Vadapalani)</br>
+ravinandanjn2005@gmail.com</br>
